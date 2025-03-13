@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\repos\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:repos\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\repos\\borrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:repos\\borrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\repos\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:repos\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\controllers\\addbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:controllers\\addbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\repos\\interfaces\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:repos\\interfaces\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\repos\\interfaces\\iborrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:repos\\interfaces\\iborrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|c:\\users\\ayanda\\desktop\\softwareeng\\librarymanagement-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664220E8-42A7-4F5B-BB78-1FCBE3D52067}|librarySystem-Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\StudentsRepository.cs",
+              "RelativeToolTip": "Repos\\StudentsRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:13:51.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:24:07.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:28:25.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:12:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBorrowingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\Interfaces\\IBorrowingRecord.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IBorrowingRecord.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\Interfaces\\IBorrowingRecord.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IBorrowingRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:10:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBookController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Controllers\\AddBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddBookController.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Controllers\\AddBookController.cs",
+              "RelativeToolTip": "Controllers\\AddBookController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:08:33.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T20:05:27.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\Interfaces\\IStudentsRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IStudentsRepository.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\Interfaces\\IStudentsRepository.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IStudentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:13:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\AdminRepository.cs",
+              "RelativeToolTip": "Repos\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:18:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:05:17.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T20:40:28.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\BorrowingRepository.cs",
+              "RelativeDocumentMoniker": "Repos\\BorrowingRepository.cs",
+              "ToolTip": "C:\\Users\\Ayanda\\Desktop\\SoftwareEng\\libraryManagement-Backend\\Repos\\BorrowingRepository.cs",
+              "RelativeToolTip": "Repos\\BorrowingRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:10:57.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
